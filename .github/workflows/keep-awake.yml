@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Send GET request to keep app awake
-        run: curl -X GET https://video-streaming-application.onrender.com/
+        run: curl -X GET https://video-streaming-application.onrender.com
